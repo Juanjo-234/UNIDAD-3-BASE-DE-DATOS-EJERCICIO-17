@@ -139,5 +139,5 @@ A continuación se detalla cada una de las fases representadas:
 
 
 * **`TABLA CONSULTA`**: Detalle de las atenciones clínicas asociadas al veterinario correspondiente mediante su clave foránea.
-<img width="4582" height="2922" alt="EJERCICIO 17-FASES DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/3be52268-0d83-40f9-a073-1f9d7945bf9f" />
+<img width="4582" height="2922" alt="EJERCICIO 17-FASES DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/ce6856ab-9dcf-477b-bae7-5c822064ecd1" />
 
